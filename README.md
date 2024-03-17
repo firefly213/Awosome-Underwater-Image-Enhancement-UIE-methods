@@ -1,4 +1,4 @@
-Awosome-Underwater-Image-Enhancement-UIE-methodsAwosome Underwater Datasets
+Awosome Underwater Image Enhancement (UIE) methods
 ============================
 ### Non-physical methods
 |Method|Code|Paper|More|
