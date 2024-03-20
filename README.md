@@ -13,5 +13,6 @@ Awosome Underwater Image Enhancement (UIE) methods
 ### Deep learning based methods
 |Method|Code|Paper|More|
 | --- | --- | --- | --- |
+|CLUIE|[Code](https://justwj.github.io/CLUIE-Net.html/)|[Paper](https://ieeexplore.ieee.org/document/9965419)|23TSCVT,  Comparative Learning|
 ||[Code]()|[Paper]()||
 
